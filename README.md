@@ -23,12 +23,16 @@
 
 </div>
 
+> [!TIP]
+> 🚀 Check out our follow-up work **[Self Gradient Forcing Plus (SGF+)](https://zihan-su.github.io/self-gradient-forcing-plus/)**: Decoupling Gradient Flows for Autoregressive Video Generation.
+
 <p align="center">
   <img src="assets/teaser.jpg" width="95%" alt="Self Gradient Forcing teaser">
 </p>
 
 ## 🔥 News
 
+- **2026-10-07**: 🚀 Introducing **SGF+**, our follow-up work on Self Gradient Forcing! SGF+ decouples context-writing and denoising parameters, improving visual quality and long-horizon consistency and enabling video generation of up to **24 hours** from only **5-second training windows**. [Project Page](https://zihan-su.github.io/self-gradient-forcing-plus/) | [Code](https://github.com/Zihan-Su/Self_Gradient_Forcing_Plus) | [Paper](https://arxiv.org/abs/2610.10429).
 - **2026-07-23**: Paper, model checkpoints, inference scripts, and training code are publicly released.
 
 ## 🧠 Method Overview
