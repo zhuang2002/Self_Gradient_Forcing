@@ -188,4 +188,11 @@ This project is released under the Apache-2.0 license.
   journal={arXiv preprint arXiv:2607.20368},
   year={2026}
 }
+
+@article{su2026sgf+,
+  title={SGF+: Decoupling Gradient Flows for Autoregressive Video Generation},
+  author={Su, Zihan and Zhuang, Junhao and Li, Yaowei and Lu, Siwen and Li, Haoran and Li, Lingen and Wu, Haoyu and Jin, Weiyang and Zhang, Songchun and Huang, Haoyang and others},
+  journal={arXiv preprint arXiv:2610.10429},
+  year={2026}
+}
 ```
